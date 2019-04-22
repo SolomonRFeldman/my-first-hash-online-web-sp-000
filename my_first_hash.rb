@@ -1,5 +1,5 @@
 def my_hash
-  my_hashy { "toothbrush" => "colgate", "juice" => "Apple Juice"
+  my_hashy { "toothpaste" => "colgate", "juice" => "Apple Juice" }
 end
 
 
